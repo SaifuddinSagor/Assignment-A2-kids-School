@@ -282,26 +282,46 @@ body{
     gap: 30px;
 }
 
-.card {
+.radian-color-1 {
     width: 367px;
     height: 475px;
     border-radius: 18px;
-    box-shadow: 0 4px 3px #05a615;
+    box-shadow: 0 4px 3px #3698c2;
+    margin-top: 30px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+.radian-color-2 {
+    width: 367px;
+    height: 475px;
+    border-radius: 18px;
+    box-shadow: 0 4px 3px #ac258e;
+    margin-top: 30px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+.radian-color-3 {
+    width: 367px;
+    height: 475px;
+    border-radius: 18px;
+    box-shadow: 0 4px 3px #aea910;
     margin-top: 30px;
     transition: transform 0.3s, box-shadow 0.3s;
     text-align: center;
 }
 
+
+
 .radian-color-1 {
-    background: linear-gradient(180deg, #DEF5FF, #FFFFFF);
+    background: linear-gradient(180deg, #3698c2, #FFFFFF);
 }
 
 .radian-color-2 {
-    background: linear-gradient(180deg, #FFF4DC, #FFFFFF);
+    background: linear-gradient(180deg, #ac258e, #FFFFFF);
 }
 
 .radian-color-3 {
-    background: linear-gradient(180deg, #F2E8FF, #FFFFFF);
+    background: linear-gradient(180deg, #aea910, #FFFFFF);
 }
 
 .card:hover {
