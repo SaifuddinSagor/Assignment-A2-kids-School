@@ -286,7 +286,7 @@ body{
     width: 367px;
     height: 475px;
     border-radius: 18px;
-    box-shadow: 0 4px 3px #3698c2;
+    box-shadow: 0 4px 3px #DEF5FF;
     margin-top: 30px;
     transition: transform 0.3s, box-shadow 0.3s;
     text-align: center;
@@ -295,7 +295,7 @@ body{
     width: 367px;
     height: 475px;
     border-radius: 18px;
-    box-shadow: 0 4px 3px #ac258e;
+    box-shadow: 0 4px 3px #FFF4DC;
     margin-top: 30px;
     transition: transform 0.3s, box-shadow 0.3s;
     text-align: center;
@@ -304,7 +304,7 @@ body{
     width: 367px;
     height: 475px;
     border-radius: 18px;
-    box-shadow: 0 4px 3px #aea910;
+    box-shadow: 0 4px 3px #F2E8FF;
     margin-top: 30px;
     transition: transform 0.3s, box-shadow 0.3s;
     text-align: center;
@@ -313,15 +313,15 @@ body{
 
 
 .radian-color-1 {
-    background: linear-gradient(180deg, #3698c2, #FFFFFF);
+    background: linear-gradient(180deg, #DEF5FF, #FFFFFF);
 }
 
 .radian-color-2 {
-    background: linear-gradient(180deg, #ac258e, #FFFFFF);
+    background: linear-gradient(180deg, #FFF4DC, #FFFFFF);
 }
 
 .radian-color-3 {
-    background: linear-gradient(180deg, #aea910, #FFFFFF);
+    background: linear-gradient(180deg, #F2E8FF, #FFFFFF);
 }
 
 .card:hover {
