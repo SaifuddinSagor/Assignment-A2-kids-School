@@ -89,7 +89,7 @@ body{
 }
 
 .items-name-1:hover {
-    box-shadow: 0 4px 3px #05a615;
+    box-shadow: 0 4px 3px #FEA301;
     border-radius: 5px;
     transform: translateY(-10px);
 }
@@ -101,7 +101,7 @@ body{
 }
 
 .items-name-2:hover {
-    box-shadow: 0 4px 3px #05a615;
+    box-shadow: 0 4px 3px #01ACFD;
     border-radius: 5px;
     transform: translateY(-10px);
 }
@@ -112,7 +112,7 @@ body{
 }
 
 .items-name-3:hover {
-    box-shadow: 0 4px 3px #05a615;
+    box-shadow: 0 4px 3px #05D4DF;
     border-radius: 5px;
     transform: translateY(-10px);
 }
@@ -123,7 +123,7 @@ body{
 }
 
 .items-name-4:hover {
-    box-shadow: 0 4px 3px #05a615;
+    box-shadow: 0 4px 3px #5D58EF;
     border-radius: 5px;
     transform: translateY(-10px);
 }
